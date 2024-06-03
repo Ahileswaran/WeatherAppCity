@@ -73,4 +73,5 @@
     Error Handling: Gracefully handles errors such as network failures or location services being disabled.
     Responsive UI: Ensures the UI is responsive and provides a good user experience on different screen sizes and orientations.
 
-    
+## Screenshots & Video Demo
+[Link](https://drive.google.com/drive/folders/1j9sFZo8wZyS8cNmpzF_6Lh9YtA1-TNOY?usp=sharing)
